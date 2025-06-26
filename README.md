@@ -13,3 +13,6 @@ Software:
   - Biblioteca WiFi.h
   - Biblioteca WebServer.h
   - Biblioteca DNSServer.h
+
+## Imagem
+![Circuito](https://github.com/user-attachments/assets/acee4fb1-6850-4595-b0d7-b16db88872a1)
