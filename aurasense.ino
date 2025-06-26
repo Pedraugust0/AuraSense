@@ -136,7 +136,7 @@ void loop() {
       Serial.println("Alarme DESATIVADO!");
   }
 
-  // Serial prints para debug (mantenha fora do if/else para ver sempre)
+  // Serial prints para debug
   Serial.print("Sensor: ");
   Serial.print(valorSensor);
   Serial.print(" Limite: ");
