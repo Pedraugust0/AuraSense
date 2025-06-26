@@ -2,7 +2,7 @@
 ## Descrição
 Este é um projeto focado em IoT, ele implementa um sistema de sensor de gás configurável via site hospedado pelo microcontrolador Esp32 que possui um módulo wifi integrado.
 
-##Componentes utilizados
+## Componentes utilizados
 Hardware:
   - 1x Sensor de Gás MQ-2
   - 1x Buzzer passivo
